@@ -1,0 +1,30 @@
+.prod_filter_div{
+    /* display: flex; */
+    /* margin: 2rem 0; */
+    /* gap: 1rem; */
+    padding: 0 1rem;
+}
+
+.product_page_heading{
+    padding: 0 1.5rem;
+}
+
+.filters_div{
+    width: 20%;
+    height: 80vh;
+    padding: .5rem 1rem ;
+}
+
+.products_div{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 1rem;
+    row-gap: 2rem;
+}
+
+.buttons{
+    display: flex;
+    gap: 1rem;
+}

@@ -1,0 +1,31 @@
+.nav-div{
+    padding: .5rem 2rem;
+}
+
+.product_list{
+    display: flex;
+    padding: .5rem 1rem;
+    width: 18rem;
+    gap: .4rem;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#go_to_cart{
+    /* padding: .5rem 1rem; */
+    margin: .5rem 1rem;
+    width: inherit;
+}
+
+.price_div{
+    flex: 1;
+}
+
+.product_list h5{
+    cursor: pointer;
+}
+
+.product_list img{
+    width: 40%;
+    height: auto;
+}
